@@ -1,0 +1,89 @@
+ASSET STORE:
+
+LowPoly Environment Pack
+https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479
+
+Free Low Poly - lava Plants
+https://assetstore.unity.com/packages/3d/environments/fantasy/free-low-poly-lava-plants-145043
+
+Free Low Poly Nature Project Pack 2 Swamp
+https://assetstore.unity.com/packages/3d/environments/landscapes/free-low-poly-nature-project-pack-2-swamp-123765
+
+FREE Skybox - Cubemap Extended
+https://assetstore.unity.com/packages/vfx/shaders/free-skybox-cubemap-extended-107400
+
+Forest - Low Poly Toon Battle Arena / Tower Defense Pack
+https://assetstore.unity.com/packages/3d/environments/forest-low-poly-toon-battle-arena-tower-defense-pack-100080
+
+Bubble Font (Free Version)
+https://assetstore.unity.com/packages/2d/fonts/bubble-font-free-version-24987?fbclid=IwAR2srU0CnLr40g7OHCCvnbrtYoAfUVmVA7MAU0WYKpPdwn9DpS4o1S2rw-o
+
+LowPoly Water
+https://assetstore.unity.com/packages/tools/particles-effects/lowpoly-water-107563
+
+Low Poly: Foliage
+https://assetstore.unity.com/packages/3d/vegetation/low-poly-foliage-66638
+
+Halloween Cemetery Set
+https://assetstore.unity.com/packages/3d/environments/fantasy/halloween-cemetery-set-19125
+
+Low Poly Buildings Lite
+https://assetstore.unity.com/packages/3d/environments/low-poly-buildings-lite-98836
+
+Low Poly Forest Pack
+https://assetstore.unity.com/packages/3d/environments/low-poly-forest-pack-60137
+
+
+
+FREESOUND.ORG:
+
+eelke__birds-forest (ambient)
+https://freesound.org/people/Eelke/sounds/144421/?fbclid=IwAR2PIrMN-PR6eW3FnQF3S94p0ZVfv-oQwKoH3k2O2kE8mkVRAvG1kfql0fI
+
+foolboymedia__sky-loop (bgm)
+https://freesound.org/people/FoolBoyMedia/sounds/264295/?fbclid=IwAR3D6xiCIp9C1xOYVQdQ9iwYExgSceet9uXMzWge0-I4w9TOTQoY47FGjhE
+
+stream-river-water-up-close (water sound)
+https://freesound.org/people/jackmurrayofficial/sounds/433589/
+
+WaterDropBounce (color change sound)
+https://freesound.org/people/velkstar/sounds/425209/
+
+jump2 (jump sound)
+https://freesound.org/people/LloydEvans09/sounds/187024/
+
+chewing-carrot-a (eating a fish sound)
+https://freesound.org/people/InspectorJ/sounds/412068/
+
+
+
+FREE 3D MODELS:
+
+Mario-box (as yellow hint boxes)
+https://www.cgtrader.com/free-3d-models/architectural/other/mario-box?fbclid=IwAR1KPYy2rfpfe-49_ODUjx1-jJ7mp4G4Wlgljq-MJe0oY0q8HY4yxqKaIw0
+
+LMHPOLY - Poison_Pot 
+https://lmhpoly.com/how-to-change-object-shading-in-unity/
+
+
+MY MODELS (BLENDER):
+
+Fish (collectible)
+Cats - same model for all three
+Red Bowl
+Low Poly Terrain
+
+
+SPRITES:
+
+Fishbone free icon
+https://www.flaticon.com/free-icon/fishbone_1816051#term=fishbone&page=1&position=12
+
+Key free icon
+https://www.flaticon.com/free-icon/key_2237600
+
+Fall Clipart Cat - Dog And Cat Paws Png
+https://www.trzcacak.rs/imgm/iRJhmiT_fall-clipart-cat-dog-and-cat-paws-png/
+
+Birch_Leaf.tif
+https://lmhpoly.com/unity-tutorial-falling-leaves-particle-system/
